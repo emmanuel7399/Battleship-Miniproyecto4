@@ -1,16 +1,12 @@
-module com.battleship.battleship {
+module com.battleship {
     requires javafx.controls;
     requires javafx.fxml;
-    requires javafx.web;
+    requires java.desktop; // A veces necesario para ciertas utilidades de AWT si se usan
 
-    requires org.controlsfx.controls;
-    requires com.dlsc.formsfx;
-    requires net.synedra.validatorfx;
-    requires org.kordamp.ikonli.javafx;
-    requires org.kordamp.bootstrapfx.core;
-    requires eu.hansolo.tilesfx;
-    requires com.almasb.fxgl.all;
+    opens com.battleship to javafx.fxml;
+    exports com.battleship;
 
-    opens com.battleship.battleship to javafx.fxml;
-    exports com.battleship.battleship;
+    // Exportamos y abrimos el paquete controllers para que JavaFX pueda acceder a ellos
+    exports com.battleship.controllers;
+    opens com.battleship.controllers to javafx.fxml;
 }
