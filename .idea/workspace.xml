@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1fcc927-bab0-4524-87db-cbe65e6bae96" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/battleship_data.ser" beforeDir="false" afterPath="$PROJECT_DIR$/battleship_data.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/battleship_status.txt" beforeDir="false" afterPath="$PROJECT_DIR$/battleship_status.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/battleship/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/battleship/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/battleship/controllers/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/battleship/controllers/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/battleship/views/CellView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/battleship/views/CellView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +81,7 @@
       <updated>1765425251250</updated>
       <workItem from="1765425253460" duration="1008000" />
       <workItem from="1765493740437" duration="11777000" />
-      <workItem from="1765583556547" duration="1535000" />
+      <workItem from="1765583556547" duration="4390000" />
     </task>
     <servers />
   </component>
