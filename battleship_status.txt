@@ -1,3 +1,0 @@
-Nickname: Karmelo Sinkoleta
-Player_Sunk_Ships: 12
-Time_Elapsed_Seconds: 51
