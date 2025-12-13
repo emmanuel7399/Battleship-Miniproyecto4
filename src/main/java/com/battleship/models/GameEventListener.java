@@ -28,4 +28,6 @@ public interface GameEventListener {
      *               </ul>
      */
     void onEnemyShotFired(Coordinate target, int result);
+
+    //Profe si lee esto, que tenga una feliz navidad y prospero año nuevo.
 }
