@@ -1,0 +1,6 @@
+module:com.battleship
+com.battleship
+com.battleship.controllers
+com.battleship.exceptions
+com.battleship.models
+com.battleship.views
