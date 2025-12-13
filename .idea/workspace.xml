@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1fcc927-bab0-4524-87db-cbe65e6bae96" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/battleship/views/CellView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/battleship/views/CellView.java" afterDir="false" />
-    </list>
+    <list default="true" id="a1fcc927-bab0-4524-87db-cbe65e6bae96" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +32,9 @@
     &quot;accountId&quot;: &quot;abf2e65a-edb4-45a8-aae7-7adbc4cc0742&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/battleship/views/BoardView.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -81,7 +82,7 @@
       <updated>1765425251250</updated>
       <workItem from="1765425253460" duration="1008000" />
       <workItem from="1765493740437" duration="11777000" />
-      <workItem from="1765583556547" duration="4390000" />
+      <workItem from="1765583556547" duration="5140000" />
     </task>
     <servers />
   </component>
