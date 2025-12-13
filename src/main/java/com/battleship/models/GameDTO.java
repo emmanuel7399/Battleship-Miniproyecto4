@@ -6,7 +6,7 @@ public class GameDTO implements Serializable {
     private Board playerBoard;
     private Board enemyBoard;
     private String nickname;
-    private int elapsedSeconds; // <--- NUEVO CAMPO
+    private int elapsedSeconds;
 
     public GameDTO(Board playerBoard, Board enemyBoard, String nickname, int elapsedSeconds) {
         this.playerBoard = playerBoard;
@@ -18,5 +18,5 @@ public class GameDTO implements Serializable {
     public Board getPlayerBoard() { return playerBoard; }
     public Board getEnemyBoard() { return enemyBoard; }
     public String getNickname() { return nickname; }
-    public int getElapsedSeconds() { return elapsedSeconds; } // <--- NUEVO GETTER
+    public int getElapsedSeconds() { return elapsedSeconds; }
 }
